@@ -1,2 +1,2 @@
 # DFA
-deterministics finite autometa in THEORY OF COMPUTATION
+Implementation of Deterministics Finite Autometa in THEORY OF COMPUTATION
