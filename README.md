@@ -1,2 +1,2 @@
 # DFA
-deterministics finite autometa in TOC
+deterministics finite autometa in THEORY OF COMPUTATION
